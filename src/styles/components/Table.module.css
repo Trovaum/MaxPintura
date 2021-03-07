@@ -1,0 +1,35 @@
+.container table td,
+.container table th,
+.container table textarea {
+    padding: 0.3rem;
+    border: 1px solid #000;
+}
+.container table tr th {
+    background: #3498db;
+    color: #ffffff;
+}
+
+.container table tr td {
+    background: #ecf0f1;
+}
+
+.container table td input {
+    width: 3rem;
+    border: 0;
+    border-bottom: 1px solid rgb(126, 124, 124);
+    margin-bottom: 0.5rem;
+}
+
+.container table textarea {
+    border: 0;
+}
+
+.container table td select {
+    border: 0;
+    border-bottom: 1px solid rgb(126, 124, 124);
+}
+
+.container footer blockquote {
+    text-align: center;
+    margin-top: 0.8rem;
+}
